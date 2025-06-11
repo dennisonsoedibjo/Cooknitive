@@ -1,2 +1,2 @@
-# recipe-management-system
+# Cooknitive
 bababooey
